@@ -7,6 +7,7 @@
 <p>I'm an aspiring software engineer with a background in Python, Java, HTML, and CSS. </p>
 
 <p>Visit my <a href="https://www.linkedin.com/in/miguel-closa-b9a471293">Linkedin!</a></p>
+<p>Or my <a href="https://miguelclosa-portfolio.vercel.app/">Website!</a></p>
 
 
 <h1 align="center">Statistics</h1>
