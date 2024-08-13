@@ -4,7 +4,7 @@
 
 
 
-<p>I'm an aspiring software engineer with a background in Python, Java, HTML, and CSS. </p>
+<p>I'm an aspiring software engineer with a background in Python, Java, HTML, CSS, and JavaScript. </p>
 
 <p>Visit my <a href="https://www.linkedin.com/in/miguel-closa-b9a471293">Linkedin</a> or my <a href="https://miguelclosa-portfolio.vercel.app/">Website!</a></p>
 
