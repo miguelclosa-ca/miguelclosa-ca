@@ -1,12 +1,13 @@
 <h1 align="center">Miguel Closa</h1> 
-<h3 align="center">Second-year student at Carleton University learning Computer Science 💻</h3>
+<h3 align="center">Second-year student at Carleton University studying Computer Science 💻</h3>
 
 
 
 
-<p>I'm an aspiring software engineer with a background in Python, Java, HTML, CSS, and JavaScript. </p>
+<h5 align="center">I'm an aspiring software engineer with a background in Python, Java, HTML, CSS, and JavaScript. </h5>
 
-<p>Visit my <a href="https://www.linkedin.com/in/miguel-closa-b9a471293">Linkedin</a> or my <a href="https://miguelclosa.vercel.app/">Website!</a></p>
+
+<p align="center">Check out my <a href="https://www.linkedin.com/in/miguel-closa-b9a471293">Linkedin</a> or my <a href="https://miguelclosa.vercel.app/">Website!</a></p>
 
 
 <h1 align="center">Statistics</h1>
