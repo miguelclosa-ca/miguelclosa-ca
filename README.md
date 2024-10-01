@@ -15,7 +15,7 @@
   <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=miguelclosa-ca&show_icons=true&locale=en&layout=compact&theme=midnight-purple" alt="miguelclosa-ca" /></p>
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=miguelclosa-ca&theme=nightowl)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=miguelclosa-ca&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p>Languages worked with: (in chronological order)</p>
     
