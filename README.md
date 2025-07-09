@@ -4,10 +4,11 @@
 
 
 
-<h5 align="center">I'm an aspiring software engineer with a background in Python, Java, HTML, CSS, and JavaScript. </h5>
+<h4 align="center">I'm an aspiring software engineer with a background in Python, Java, C/C++, HTML, CSS, and JavaScript. </h4>
 
+<h3 align="center">Links:</h3>
+<p align="center"><a href="https://www.linkedin.com/in/miguel-closa-b9a471293">Linkedin</a> <a href="https://miguelclosa.vercel.app/">Website</a></p>
 
-<p align="center">Check out my <a href="https://www.linkedin.com/in/miguel-closa-b9a471293">Linkedin</a> or my <a href="https://miguelclosa.vercel.app/">Website!</a></p>
 
 
 <h1 align="center">Statistics</h1>
