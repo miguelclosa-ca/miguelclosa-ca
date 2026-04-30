@@ -1,5 +1,5 @@
 <h1 align="center">Miguel Closa</h1> 
-<h3 align="center">Third-year student at Carleton University studying Computer Science 💻</h3>
+<h3 align="center">Fourth-year student at Carleton University studying Computer Science 💻</h3>
 
 
 
