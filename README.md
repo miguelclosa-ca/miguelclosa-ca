@@ -1,20 +1,17 @@
 <h1 align="center">Miguel Closa</h1> 
-<h3 align="center">Fourth-year student at Carleton University studying Computer Science 💻</h3>
+<p align="center">Fourth-year student at Carleton University studying Computer Science 💻</p>
 
 
 
 
-<h4 align="center">I'm an aspiring software engineer with a background in Python, Java, C/C++, HTML, CSS, and JavaScript. </h4>
+<p align="center">I'm an aspiring software engineer with a background in Python, Java, C/C++, HTML, CSS, and JavaScript. </p>
 
-<h3 align="center">Links:</h3>
+<h2 align="center">Links:</h2>
 <p align="center"><a href="https://www.linkedin.com/in/miguel-closa-b9a471293">Linkedin</a> <a href="https://miguelclosa.vercel.app/">Website</a></p>
 
 
 
-<h1 align="center">Statistics</h1>
-<div align="center">
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=miguelclosa-ca&show_icons=true&locale=en&layout=compact&theme=midnight-purple" alt="miguelclosa-ca" /></p>
-</div>
+<h2 align="center">Statistics</h2>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=miguelclosa-ca&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
